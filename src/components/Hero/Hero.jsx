@@ -60,7 +60,7 @@ const settings={
 
                             <h1  data-aos ="zoom-out" data-aos-duration="500" data-aos-once="true" className='text-5xl  sm:text-6xl lg:text-7xl font-bold'>{data.title}</h1>
 
-                            <h1  data-aos ="zoom-out" data-aos-duration="500" data-aos-once="true" className='text-5xl uppercase text-white dark:text-white/5 sm:text-[80px] md:text-[100px] xl:text-[150px] font-bold'>{data.title2}</h1>
+                            <h1  data-aos ="zoom-out" data-aos-duration="500" data-aos-once="true" className='text-5xl uppercase text-white dark:text-white/5 sm:text-[60px] md:text-[80px] lg:text-[100px] xl:text-[150px] font-bold'>{data.title2}</h1>
 
                             <div  data-aos ="fade-up" data-aos-duration="500" data-aos-offset="0" data-aos-delay="300 items">
                                 <Button
@@ -72,7 +72,7 @@ const settings={
                         {/* IMAGE SECTION */}
                         <div className='order-1 sm:order-2 '>
                             <div data-aos="zoom-in" data-aos-once="true"
-                            className='relative z-10'>
+                            className='relative z-10 overflow-hidden'>
                                 <img src={data.img} alt=''
                                 className='w-[300px]  sm:w-[450px] h-[300px] sm:h-[450px] sm:scale-105 lg:scale-110 object-contain mx-auto drop-shadow-[-8px_4px_6px_rgba(0,0,0,0.4)] relative z-40'/>
                             </div>

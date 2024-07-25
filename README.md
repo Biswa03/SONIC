@@ -1,8 +1,17 @@
-# React + Vite
+# SONIC
+#FRONTEND PROJECT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+SONIC is a marketplace designed for buying headphones. The platform provides a user-friendly interface for browsing and purchasing a wide range of headphones. It leverages modern web technologies to offer an engaging and responsive shopping experience.
 
-Currently, two official plugins are available:
+## Features
+- **Browse Headphones**: Explore a diverse selection of headphones with detailed product information.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Frontend Technologies, Frameworks, and Libraries
+HTML, CSS, JavaScript, React, Tailwind CSS
+
+## Demo
+You can view the live version of the project hosted on Netlify by following the link below:
+[Visit SONIC on Netlify](https://sonicvr.netlify.app/)
+
